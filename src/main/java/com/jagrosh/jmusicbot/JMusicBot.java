@@ -119,6 +119,7 @@ public class JMusicBot
                         new SkiptoCmd(bot),
                         new StopCmd(bot),
                         new VolumeCmd(bot),
+                        new SetPlaytimeCmd(bot),
                         
                         new PrefixCmd(bot),
                         new SetdjCmd(bot),
